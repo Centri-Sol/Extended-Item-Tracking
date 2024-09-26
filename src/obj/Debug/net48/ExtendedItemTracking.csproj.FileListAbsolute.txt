@@ -1,9 +1,0 @@
-C:\Users\brycc\source\repos\ExtendedItemTracking\src\bin\Debug\net48\ExtendedItemTracking.dll
-C:\Users\brycc\source\repos\ExtendedItemTracking\src\bin\Debug\net48\ExtendedItemTracking.pdb
-C:\Users\brycc\source\repos\ExtendedItemTracking\src\obj\Debug\net48\ExtendedItemTracking.csproj.AssemblyReference.cache
-C:\Users\brycc\source\repos\ExtendedItemTracking\src\obj\Debug\net48\ExtendedItemTracking.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\brycc\source\repos\ExtendedItemTracking\src\obj\Debug\net48\ExtendedItemTracking.AssemblyInfoInputs.cache
-C:\Users\brycc\source\repos\ExtendedItemTracking\src\obj\Debug\net48\ExtendedItemTracking.AssemblyInfo.cs
-C:\Users\brycc\source\repos\ExtendedItemTracking\src\obj\Debug\net48\ExtendedItemTracking.csproj.CoreCompileInputs.cache
-C:\Users\brycc\source\repos\ExtendedItemTracking\src\obj\Debug\net48\ExtendedItemTracking.dll
-C:\Users\brycc\source\repos\ExtendedItemTracking\src\obj\Debug\net48\ExtendedItemTracking.pdb
